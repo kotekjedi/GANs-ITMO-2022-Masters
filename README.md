@@ -1,7 +1,9 @@
 # Generative models
 **ITMO University, Autumn 2022, MSc course**
 
-Here you can find links and current deadlines. Note that this information may change over the course.
+Below you will find links and current deadlines for the Arip Asadulaev's Generative Models course at ITMO University, Autumn 2022. 
+
+Note that this information may change over the course.
 
 Deadline | Link | Description|
 ---------|------|-----------|
