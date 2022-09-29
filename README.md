@@ -1,6 +1,8 @@
 # Generative models
 **ITMO University, Autumn 2022, MSc course**
 
+Here you can find links and current deadlines. Note that this information may change over the course.
+
 Deadline | Link | Desription|
 ---------|------|-----------|
 15.10.2022 | [Generative Adversarial Networks (GANs) and Representation learning with GANs](https://github.com/kotekjedi/GANs-ITMO-2022-Masters/blob/main/Assignment%201/1_gan_dcgan.ipynb)| On implementing GAN and DCGAN
